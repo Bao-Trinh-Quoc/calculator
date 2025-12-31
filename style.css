@@ -1,0 +1,11 @@
+.display_screen {
+    background-color: darkgreen;
+    color: white;
+    width: 9em;
+    height: 4em;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+}

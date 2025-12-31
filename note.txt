@@ -1,0 +1,13 @@
+12/23/2025
+
+--- almost done
+did the "You should round answers with long decimals so that they don’t overflow the display."
+
+2026/1/1
+
+happy new year
+so i change that it should not round for every operator but just for the / instead
+
+Pressing = before entering all of the numbers or an operator could cause problems! done
+
+Display a snarky error message if the user tries to divide by 0… and don’t let it crash your calculator! done
